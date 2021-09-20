@@ -1,4 +1,11 @@
 baseURL = 'http://EM-Tec.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'zh.tw'
+title = '毛哥EM資訊密技'
 theme = 'hugo-clarity'
+author = "毛哥EM"
+description = '以中文分享程式及軟件 提升資訊能力到下一個境界'
+introDescription = '我十分喜歡使用電腦或平板工作，因為只要你熟悉它的操作方式，他會使你工作變得更方便。這樣長期使用下來，我找到了許多提升你的工作效率及螢幕畫面及成果更漂亮的方法。這個網站分享我使用電腦的小技巧。包括程式及一些你有但你不知道的功能。其中也包含了視訊上課實用的工具及技巧。 這個網站的內容原本全是英文的，但為讓台灣使用者閱讀起來更方便，我將它翻譯成英文。也將一些汰舊的作品淘汰掉。 好東西是值得等待的。還在持續工作中...'
+logo = 'Logo.png'
+favicon = 'Logo.png'
+defaultcontentlanguage = "zh-tw"
+enableemoji = ture
