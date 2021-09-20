@@ -1,11 +1,11 @@
 
-[en]
+[zh-tw]
   title = "Clarity"
-  LanguageName = "English"
+  LanguageName = "中文"
   weight = 1
 
-[pt]
-  title = "Claridade" # just for the sake of showing this is possible
-  LanguageName = "Português"
+[en]
+  title = "EM Tec Blog" # just for the sake of showing this is possible
+  LanguageName = "English"
   weight = 2
   
